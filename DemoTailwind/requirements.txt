@@ -1,1 +1,5 @@
 djnago
+
+djnago-tailwind
+
+'djnago-tailwind[reload]'
